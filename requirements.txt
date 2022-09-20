@@ -1,0 +1,11 @@
+httpx
+cacheout
+pyrate-limiter
+tenacity
+magnet2torrent
+random_user_agent
+Jinja2
+aiofiles
+lxml
+beautifulsoup4
+PyYAML
